@@ -9,10 +9,13 @@
   "dependencies": {
     "expo": "^32.0.0",
     "react": "16.5.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz"
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "uuid": "^3.3.2"
   },
   "devDependencies": {
-    "babel-preset-expo": "^5.0.0"
+    "@angular/cli": "^7.3.8",
+    "babel-preset-expo": "^5.0.0",
+    "xxxxx": "^1.0.3"
   },
   "private": true
 }
